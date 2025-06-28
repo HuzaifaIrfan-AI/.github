@@ -46,6 +46,8 @@
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/OpenAI_logo_2025_%28wordmark%29.svg">
     </td>
+</tr>
+<tr>
     <td align='center' width="200">
         <img src="https://www.linuxtricks.fr/upload/ollama-logo.png">
     </td>
