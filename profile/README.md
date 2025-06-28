@@ -23,12 +23,15 @@
 <tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg">
+        Browsers
     </td>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
+        Linux
     </td>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
+        Docker
     </td>
 </tr>
 </table>
@@ -39,23 +42,29 @@
 <tr>
     <td align='center' width="200">
         <img src="https://media.datacamp.com/cms/google/ad_4nxfnnz7nfq1q7wrkzmgmkg3wcgxldkbjchen5fadpwc1oydavwgjfu9dofuy9xljev29evzupzkmokbfj7640py0dhqycnnry-lxg3flcinmj5h7ov6r4xzhjoy6ccxrr5tqxanduwuba5b3agznvidnpz8.png">
+        LangGraph
     </td>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg">
+        LangChain
     </td>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/OpenAI_logo_2025_%28wordmark%29.svg">
+        OpenAI
     </td>
 </tr>
 <tr>
     <td align='center' width="200">
         <img src="https://www.linuxtricks.fr/upload/ollama-logo.png">
+        Ollama
     </td>
     <td align='center' width="200">
         <img src="https://qdrant.tech/img/qdrant-logo.svg">
+        Qdrant - Vector Database
     </td>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg">
+        FastAPI
     </td>
 </tr>
 </table>
@@ -67,6 +76,7 @@
 <tr>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+        Python
     </td>
 </tr>
 </table>
