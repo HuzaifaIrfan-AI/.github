@@ -1,82 +1,12 @@
-# Hi there, I'm Huzaifa Irfan 👋
+# 🧑‍💻 Huzaifa Irfan 👋
+
+**`📁 This organization contains all AI-related projects, including machine learning models, data pipelines, and intelligent applications.`**
 
 <hr />
 
-<p align="center">
-<a href="https://huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/huzaifairfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/HuzaifaIrfan/" target="_blank"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:contact@huzaifairfan.com" target="_blank"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+[![GitHub Home](https://img.shields.io/badge/Home-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
+[![Email](https://img.shields.io/badge/Email-%23222.svg?style=for-the-badge&logo=gmail&logoColor=%23D14836)](mailto:hi@huzaifairfan.com)
+
 
 <hr />
-
-<p align="center">
-<a href="https://github.com/HuzaifaIrfan" target="_blank">Home</a>
-</p>
-
-## 📁 This organization contains all AI-related projects, including machine learning models, data pipelines, and intelligent applications.
-
-## 📱 Platforms
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg">
-        Browsers
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
-        Linux
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg">
-        Docker
-    </td>
-</tr>
-</table>
-
-## 🧑‍💻 Tech Stack and Tools
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://media.datacamp.com/cms/google/ad_4nxfnnz7nfq1q7wrkzmgmkg3wcgxldkbjchen5fadpwc1oydavwgjfu9dofuy9xljev29evzupzkmokbfj7640py0dhqycnnry-lxg3flcinmj5h7ov6r4xzhjoy6ccxrr5tqxanduwuba5b3agznvidnpz8.png">
-        LangGraph
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/LangChain_Logo.svg">
-        LangChain
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/OpenAI_logo_2025_%28wordmark%29.svg">
-        OpenAI
-    </td>
-</tr>
-<tr>
-    <td align='center' width="200">
-        <img src="https://www.linuxtricks.fr/upload/ollama-logo.png">
-        Ollama
-    </td>
-    <td align='center' width="200">
-        <img src="https://qdrant.tech/img/qdrant-logo.svg">
-        Qdrant - Vector Database
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg">
-        FastAPI
-    </td>
-</tr>
-</table>
-
-
-## 🈸 Languages
-
-<table>
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-        Python
-    </td>
-</tr>
-</table>
